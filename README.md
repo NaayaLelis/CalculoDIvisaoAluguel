@@ -1,4 +1,4 @@
-# Cálculo de energia
+# Cálculo de energia 🖩
 Sistema para calcular o valor que cada morador deve pagar da conta de energia de uma casa.
 
 ##Para os desenvolvedores##
